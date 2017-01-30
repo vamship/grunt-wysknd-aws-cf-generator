@@ -1,6 +1,6 @@
 {
   "name": "grunt-wysknd-aws-cf-generator",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "description": "Grunt task for the generation of code driven cloud formation templates using wysknd-aws-cf-generator",
   "main": "lib/index.js",
   "scripts": {
