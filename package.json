@@ -14,7 +14,7 @@
   "license": "ISC",
   "dependencies": {
     "clone": "^1.0.2",
-    "wysknd-aws-cf-generator": "^2.4.0"
+    "wysknd-aws-cf-generator": "^2.5.0"
   },
   "devDependencies": {
     "chai": "^3.5.0",
